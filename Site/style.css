@@ -21,6 +21,7 @@ p {
 
 .container {
 	width: 960px;
+	height: 1039px;
 	background: red;
 	margin: 0 auto;
 	background: #727272;
@@ -46,26 +47,39 @@ main h2 {
 	text-align: center;
 }
 
-.story {
-	margin-bottom: 43px;
-}
 
 img {
 	display: block;
 	margin: 0 auto;
 }
 
-.buttons {
+.button1 {
 	margin: 0 auto;
 	display: block;
 	overflow: hidden;
+	width: 260px;
 }
 
 .button2 {
-	width: 180px;
-	height: 120px;
-	background: red;
-	margin: 10px;
+	margin: 0 auto;
+	display: block;
+	overflow: hidden;
+	width: 520px;
+}
+
+.button {
+	width: 160px;
+	height: 83px;
+	background: #424242;
+	margin: 40px;
+	padding: 10px;
 	float: left;
 	border-radius: 20px;
+	text-align: center;
 }
+
+.button h3 {
+	font-size: 0.7em;
+	color: #BBBBBB;
+}
+

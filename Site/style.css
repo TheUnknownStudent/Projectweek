@@ -1,0 +1,71 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+}
+
+html {
+	overflow-y: scroll;
+}
+
+body {
+	background: #424242;
+}
+
+p {
+	font-size: 0.6em;
+	padding: 20px;
+}
+
+
+.container {
+	width: 960px;
+	background: red;
+	margin: 0 auto;
+	background: #727272;
+	color: #DDDDDD;
+}
+
+header {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+header h1 {
+	font-weight: bold;
+}
+
+main {
+
+}
+
+main h2 {
+	font-size: 0.7em;
+	padding: 10px;
+	text-align: center;
+}
+
+.story {
+	margin-bottom: 43px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+.buttons {
+	margin: 0 auto;
+	display: block;
+	overflow: hidden;
+}
+
+.button2 {
+	width: 180px;
+	height: 120px;
+	background: red;
+	margin: 10px;
+	float: left;
+	border-radius: 20px;
+}

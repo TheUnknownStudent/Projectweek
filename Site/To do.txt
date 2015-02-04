@@ -3,3 +3,6 @@ Chapter2_01:
 
 Game over:
 	Overleggen over RIP, defeated bij game over
+
+Chapter1_01:
+	Stijger rechterkant weghalen

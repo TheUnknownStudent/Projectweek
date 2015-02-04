@@ -21,7 +21,6 @@ p {
 
 .container {
 	width: 960px;
-	height: 1039px;
 	margin: 0 auto;
 	background: #727272;
 	color: #DDDDDD;
@@ -82,3 +81,10 @@ img {
 	color: #BBBBBB;
 }
 
+.gang {
+	background: url(img/Chapter1/gang-media-rijk.png);
+	width: 900px;
+	height: 900px;
+	margin: 0 auto;
+	-webkit-transition: opacity 10s easy-in-out;
+}

@@ -82,9 +82,9 @@ img {
 }
 
 .gang {
-	background: url(img/Chapter1/gang-media-rijk.png);
+	background: url(img/Chapter1/gang1-media-rijk.png);
 	width: 900px;
-	height: 900px;
+	height: 899px;
 	margin: 0 auto;
 	-webkit-transition: opacity 10s easy-in-out;
 }
